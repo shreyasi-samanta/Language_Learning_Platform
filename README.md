@@ -1,6 +1,3 @@
-﻿# Language_Learning_Platform
-# Language_Learning_Platform
-
 ## Language Learning Platform
 
 A modern and interactive Language Learning Platform developed using **HTML5, CSS3, Bootstrap 5, PHP, MySQL, and JavaScript**. The platform is designed to help users learn multiple languages through structured lessons, vocabulary and grammar modules, quizzes, assessments, and progress tracking. It provides a user-friendly learning environment where learners can improve their language skills while monitoring their performance and achievements.
